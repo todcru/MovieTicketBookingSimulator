@@ -1,0 +1,7 @@
+Update BASE_PATH in Theatre.java file constant.
+
+Place file which are listed below in BASE_PATH + "\\Theatre-Setting"; 
+
+now-playing.txt
+theatre-layout.txt
+user.txt
